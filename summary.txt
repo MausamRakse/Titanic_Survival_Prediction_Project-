@@ -1,0 +1,10 @@
+project/
+│
+├── titanic_survival_prediction.ipynb  # Jupyter Notebook
+├── project_report.md                  # Markdown report
+├── app.py                            # Streamlit app
+├── requirements.txt                  # Dependencies
+│
+├── logistic_regression_model.pkl     # Generated model files
+├── svm_model.pkl
+└── scaler.pkl
